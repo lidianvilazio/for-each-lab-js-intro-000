@@ -1,6 +1,5 @@
 function iterativeLog(array) {
-  console.log(`${in
-dex}: ${element}`)
+  
 }
 
 function iterate(callback) {
